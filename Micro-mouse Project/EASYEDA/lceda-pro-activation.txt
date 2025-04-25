@@ -1,0 +1,8 @@
+{
+    "username": "siphosethutwetwela100",
+    "customer_code": "9625922A",
+    "email": "siphosethutwetwela100@gmail.com",
+    "phone": "",
+    "company": "",
+    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,fAh+GOJALbvdYjqzarRt8aMRJeoW\/RkFxDaDTXUbz5lWGaALl3UWxBKrM6Yj7mUgnrQTsc\/G\/YOLeFP3u+LWPpoPE5U40JNFUG0jjSUyTa2dS3jFX+TZIeRnenzu7EMm5YcEE3OwkT+xVJPojC0deIEO0PTC8CELI4B6ref1X1A="
+}

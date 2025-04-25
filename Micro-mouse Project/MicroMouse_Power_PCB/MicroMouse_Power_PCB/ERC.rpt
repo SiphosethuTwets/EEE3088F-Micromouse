@@ -1,0 +1,249 @@
+ERC report (2025/03/26 14:10:52, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 79,2480 mm): Symbol U1 Pin 1 [CC1DB, Bidirectional, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(146,0500 mm, 61,2140 mm): Vertical Wire, length 20,5740 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(146,0500 mm, 81,7880 mm): Horizontal Wire, length 9,6520 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(146,0500 mm, 81,7880 mm): Symbol #FLG02 Pin 1 [pwr, Power output, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(118,6180 mm, 54,1020 mm): Horizontal Wire, length 6,5532 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(105,9180 mm, 79,2480 mm): Symbol U1 Pin 1 [CC1DB, Bidirectional, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(96,5200 mm, 41,6560 mm): Symbol #PWR02 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(96,5200 mm, 46,9392 mm): Symbol R2 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(96,5200 mm, 46,9392 mm): Vertical Wire, length 5,2832 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123,4948 mm, 46,4820 mm): Symbol C1 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(112,0648 mm, 46,4820 mm): Symbol C2 Pin 1 [Passive, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(112,0648 mm, 40,9448 mm): Symbol #PWR03 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(112,0648 mm, 40,9448 mm): Vertical Wire, length 5,5372 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123,4948 mm, 40,2844 mm): Vertical Wire, length 6,1976 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(112,0648 mm, 40,9448 mm): Symbol #PWR03 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123,4948 mm, 40,2844 mm): Symbol #PWR04 Hidden pin 1 [GND, Power input, Line]
+[multiple_net_names]: Both 9V_OUT and USB_VBUS are attached to the same items; 9V_OUT will be used in the netlist
+    ; Severity: warning
+    @(137,7696 mm, 81,7880 mm): Label '9V_OUT'
+    @(70,7644 mm, 70,9676 mm): Label 'USB_VBUS'
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 88,7476 mm): Symbol J1 Pin A6 [D+, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 83,6676 mm): Symbol J1 Pin A7 [D-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 96,3676 mm): Symbol J1 Pin B10 [RX1-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 98,9076 mm): Symbol J1 Pin B11 [RX1+, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 91,2876 mm): Symbol J1 Pin B6 [D+, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 86,2076 mm): Symbol J1 Pin B7 [D-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(52,8320 mm, 137,0076 mm): Symbol J1 Pin A1 [GND, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 126,8476 mm): Symbol J1 Pin A8 [SBU1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 121,7676 mm): Symbol J1 Pin B2 [TX2+, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 129,3876 mm): Symbol J1 Pin B8 [SBU2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(45,2120 mm, 137,0076 mm): Symbol J1 Pin S1 [SHIELD, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(52,8320 mm, 137,0076 mm): Symbol J1 Pin A1 [GND, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 111,6076 mm): Symbol J1 Pin A10 [RX2-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 114,1476 mm): Symbol J1 Pin A11 [RX2+, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 106,5276 mm): Symbol J1 Pin A2 [TX1+, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 103,9876 mm): Symbol J1 Pin A3 [TX1-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(68,0720 mm, 119,2276 mm): Symbol J1 Pin B3 [TX2-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(136,3980 mm, 86,8680 mm): Symbol U1 Pin 20 [POWER_OK2, Open collector, Line]
+[pin_to_pin]: Pins of type Power output and Open collector are connected
+    ; Severity: error
+    @(146,0500 mm, 81,7880 mm): Symbol #FLG02 Pin 1 [pwr, Power output, Line]
+    @(136,3980 mm, 81,7880 mm): Symbol U1 Pin 16 [VBUS_EN_SNK, Open collector, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(121,1580 mm, 112,2680 mm): Symbol U1 Pin 10 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 104,6480 mm): Symbol U1 Pin 12 [ADDR0, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 107,1880 mm): Symbol U1 Pin 13 [ADDR1, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 102,1080 mm): Symbol U1 Pin 19 [ALERT, Open collector, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(121,1580 mm, 112,2680 mm): Symbol U1 Pin 10 [GND, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(105,9180 mm, 104,6480 mm): Symbol U1 Pin 12 [ADDR0, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(105,9180 mm, 107,1880 mm): Symbol U1 Pin 13 [ADDR1, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(136,3980 mm, 102,1080 mm): Symbol U1 Pin 11 [ATTACH, Open collector, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(136,3980 mm, 89,4080 mm): Symbol U1 Pin 14 [POWER_OK3, Open collector, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(136,3980 mm, 104,6480 mm): Symbol U1 Pin 15 [GPIO, Open collector, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(136,3980 mm, 99,5680 mm): Symbol U1 Pin 17 [A_B_SIDE, Open collector, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(136,3980 mm, 91,9480 mm): Symbol U1 Pin 9 [DISCH, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(126,2380 mm, 66,5480 mm): Symbol U1 Pin 21 [VREG_1V2, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(128,7780 mm, 66,5480 mm): Symbol U1 Pin 23 [VREG_2V7, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(121,1580 mm, 66,5480 mm): Symbol U1 Pin 22 [VSYS, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(118,6180 mm, 66,5480 mm): Symbol U1 Pin 24 [VDD, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(121,1580 mm, 66,5480 mm): Horizontal Wire, length 2,3368 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(118,6180 mm, 66,5480 mm): Vertical Wire, length 12,4460 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123,4948 mm, 66,5480 mm): Vertical Wire, length 12,4460 mm
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 91,9480 mm): Symbol U1 Pin 18 [VBUS_VS_DISCH, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 97,0280 mm): Symbol U1 Pin 7 [SCL, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 99,5680 mm): Symbol U1 Pin 8 [SDA, Bidirectional, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(105,9180 mm, 97,0280 mm): Symbol U1 Pin 7 [SCL, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(105,9180 mm, 91,9480 mm): Symbol U1 Pin 18 [VBUS_VS_DISCH, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 86,8680 mm): Symbol U1 Pin 5 [CC2DB, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(105,9180 mm, 71,6280 mm): Symbol U1 Pin 6 [RESET, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(105,9180 mm, 71,6280 mm): Symbol U1 Pin 6 [RESET, Input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(105,9180 mm, 76,0476 mm): Vertical Wire, length 0,6604 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(105,9180 mm, 84,3280 mm): Horizontal Wire, length 9,3980 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(96,5200 mm, 84,3280 mm): Vertical Wire, length 5,7404 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(84,8868 mm, 76,0476 mm): Horizontal Wire, length 21,0312 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(96,5200 mm, 78,5876 mm): Vertical Wire, length 24,0284 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(84,8868 mm, 76,0476 mm): Vertical Wire, length 21,3360 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(68,0720 mm, 78,5876 mm): Horizontal Wire, length 28,4480 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(68,0720 mm, 76,0476 mm): Horizontal Wire, length 16,8148 mm
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; Severity: error
+    @(70,7644 mm, 61,2140 mm): Symbol #FLG01 Pin 1 [pwr, Power output, Line]
+    @(146,0500 mm, 81,7880 mm): Symbol #FLG02 Pin 1 [pwr, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Open collector are connected
+    ; Severity: error
+    @(70,7644 mm, 61,2140 mm): Symbol #FLG01 Pin 1 [pwr, Power output, Line]
+    @(136,3980 mm, 81,7880 mm): Symbol U1 Pin 16 [VBUS_EN_SNK, Open collector, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(70,7644 mm, 61,2140 mm): Horizontal Wire, length 75,2856 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(70,7644 mm, 70,9676 mm): Vertical Wire, length 9,7536 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(70,7644 mm, 61,2140 mm): Symbol #FLG01 Pin 1 [pwr, Power output, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(70,7644 mm, 70,9676 mm): Horizontal Wire, length 2,6924 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(84,8868 mm, 42,8752 mm): Symbol #PWR01 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(84,8868 mm, 42,8752 mm): Vertical Wire, length 4,2164 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(84,8868 mm, 47,0916 mm): Symbol R1 Pin 1 [Passive, Line]
+
+ ** ERC messages: 80  Errors 46  Warnings 34
